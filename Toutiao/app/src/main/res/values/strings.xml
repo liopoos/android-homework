@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">头条</string>
+    <string name="get_url">https://api.mayuko.cn/v2/news/</string>
+
+    <string name="navigation_drawer_open">打开抽屉</string>
+    <string name="navigation_drawer_close">关闭抽屉</string>
+    <string name="action_settings">设置</string>
+    <string name="my_title">匿名用户</string>
+    <string name="about_title">头条v1.0</string>
+    <string name="about_content">这是手机移动与开发安卓课程大作业。实现一个简单的新闻阅读类应用。</string>
+</resources>
